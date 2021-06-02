@@ -224,7 +224,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: aadcace2b5b5bde4286566104bd29267, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  bullet: {fileID: 0}
-  player: {fileID: 0}
+  bullet: {fileID: 5147919208963092758, guid: cd619f17688b2d243b4405e2e879d919, type: 3}
+  player: {fileID: 305988542289625696}
   gun: 0
   bulletForce: 10
+  rb1: {fileID: 305988542289625710}
