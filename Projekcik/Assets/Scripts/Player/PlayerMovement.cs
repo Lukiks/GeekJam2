@@ -4,10 +4,18 @@ using UnityEngine;
 
 public class PlayerMovement : MonoBehaviour
 {
+    
+    public AudioSource FootStepGrass;
+
     public float moveSpeed = 5f;
     public Rigidbody2D rb;
     Vector2 movement;
     public Animator anim;
+
+    public void start()
+    {
+        FootStepGrass = GetComponent<AudioSource>();
+    }
 
     void Update()
     {
@@ -21,5 +29,10 @@ public class PlayerMovement : MonoBehaviour
     void FixedUpdate()
     {
         rb.MovePosition(rb.position + movement * moveSpeed * Time.fixedDeltaTime);
+    }
+
+    public void Footstepgrass()
+    {
+        FootStepGrass.Play();
     }
 }

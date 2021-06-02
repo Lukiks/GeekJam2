@@ -5,15 +5,33 @@ using UnityEngine.SceneManagement;
 
 public class MainMenuScript : MonoBehaviour
 {
+    float timer = 2.6f;
+    bool timerbool = false;
+    
+    void Update()
+    {
+        if (timerbool)
+            timer -= Time.deltaTime;
+
+        if (timer < 0)
+            SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex + 1);
+    }
 
     public void Playgame()
     {
-        SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex + 1);
+        timerbool = true;
     }
 
-
-    public void Quitgame()
+    void Start()
     {
-        Application.Quit();
+        StartCoroutine(Quitgame());
     }
+
+    IEnumerator Quitgame()
+    {
+        yield return new WaitForSeconds(1);
+        Debug.Log("quit");
+            //Application.Quit();
+    }
+
 }
