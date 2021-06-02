@@ -1,0 +1,429 @@
+fileFormatVersion: 2
+guid: 2b7ea4cced6314040b63422762688c1d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3881829462859866810
+    second: Pole_trawy_2_0
+  - first:
+      213: -7046051052177181317
+    second: Pole_trawy_2_1
+  - first:
+      213: 7374311660944122747
+    second: Pole_trawy_2_2
+  - first:
+      213: -5419300777580837161
+    second: Pole_trawy_2_3
+  - first:
+      213: -292136572391125614
+    second: Pole_trawy_2_4
+  - first:
+      213: 4717414712353689586
+    second: Pole_trawy_2_5
+  - first:
+      213: -1299498599302232077
+    second: Pole_trawy_2_6
+  - first:
+      213: 3518685428014836432
+    second: Pole_trawy_2_7
+  - first:
+      213: 3567424321472210056
+    second: Pole_trawy_2_8
+  - first:
+      213: 1760438591326215173
+    second: Pole_trawy_2_9
+  - first:
+      213: 5846929048302521607
+    second: Pole_trawy_2_10
+  - first:
+      213: 3109436557985301886
+    second: Pole_trawy_2_11
+  - first:
+      213: 3392924561903818878
+    second: Pole_trawy_2_12
+  - first:
+      213: 5366092767224638325
+    second: Pole_trawy_2_13
+  - first:
+      213: -9166317861993412892
+    second: Pole_trawy_2_14
+  - first:
+      213: 7915831858756599902
+    second: Pole_trawy_2_15
+  - first:
+      213: 1173463779080473681
+    second: Pole_trawy_2_16
+  - first:
+      213: 2475996566210159936
+    second: Pole_trawy_2_17
+  - first:
+      213: -7422295160315338294
+    second: Pole_trawy_2_18
+  - first:
+      213: 6140901590825218704
+    second: Pole_trawy_2_19
+  - first:
+      213: 4961941866578631833
+    second: Pole_trawy_2_20
+  - first:
+      213: 5968581736108322032
+    second: Pole_trawy_2_21
+  - first:
+      213: 7613825978676123414
+    second: Pole_trawy_2_22
+  - first:
+      213: 3953097264105765489
+    second: Pole_trawy_2_23
+  - first:
+      213: 7986904224978068300
+    second: Pole_trawy_2_24
+  - first:
+      213: -7147919415264509714
+    second: Pole_trawy_2_25
+  - first:
+      213: -1083382084521266873
+    second: Pole_trawy_2_26
+  - first:
+      213: -4101372925497930104
+    second: Pole_trawy_2_27
+  - first:
+      213: -225977605543172955
+    second: Pole_trawy_2_28
+  - first:
+      213: -6503472497305283066
+    second: Pole_trawy_2_29
+  - first:
+      213: -6054132803617525782
+    second: Pole_trawy_2_30
+  - first:
+      213: 5626845061590766836
+    second: Pole_trawy_2_31
+  - first:
+      213: 6678294937780667090
+    second: Pole_trawy_2_32
+  - first:
+      213: -7661331056426582390
+    second: Pole_trawy_2_33
+  - first:
+      213: 5829885745959286049
+    second: Pole_trawy_2_34
+  - first:
+      213: 3087873280217434103
+    second: Pole_trawy_2_35
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 62
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Pole_trawy_2_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 124
+        width: 65
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab2686464570fd530800000000000000
+      internalID: 3881829462859866810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pole_trawy_2_1
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 124
+        width: 65
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7536bd46e5673e90800000000000000
+      internalID: -7046051052177181317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pole_trawy_2_2
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 124
+        width: 65
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7368958261d65660800000000000000
+      internalID: 7374311660944122747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pole_trawy_2_3
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 62
+        width: 65
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d6cb4dc7a6cac4b0800000000000000
+      internalID: -5419300777580837161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pole_trawy_2_4
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 62
+        width: 65
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29d0ab0d55f12fbf0800000000000000
+      internalID: -292136572391125614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pole_trawy_2_5
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 62
+        width: 65
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ff0b0cdfaf977140800000000000000
+      internalID: 4717414712353689586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pole_trawy_2_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 65
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f70972b8e047fde0800000000000000
+      internalID: -1299498599302232077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pole_trawy_2_7
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 0
+        width: 65
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0daea2501c1e4d030800000000000000
+      internalID: 3518685428014836432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pole_trawy_2_8
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 0
+        width: 65
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 884a074f489028130800000000000000
+      internalID: 3567424321472210056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,1668 @@
+fileFormatVersion: 2
+guid: 5796ab6b28272af42b81b6c6c5495300
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3479008905546535907
+    second: Droga_1 (2)_0
+  - first:
+      213: 4586479444852256139
+    second: Droga_1 (2)_1
+  - first:
+      213: -6411424879129207533
+    second: Droga_1 (2)_2
+  - first:
+      213: 4677429104632259164
+    second: Droga_1 (2)_3
+  - first:
+      213: 3886143814013051599
+    second: Droga_1 (2)_4
+  - first:
+      213: 8266272405623384164
+    second: Droga_1 (2)_5
+  - first:
+      213: -4639841824784138147
+    second: Droga_1 (2)_6
+  - first:
+      213: 4511917675793369995
+    second: Droga_1 (2)_7
+  - first:
+      213: 5640518266707227963
+    second: Droga_1 (2)_8
+  - first:
+      213: -6585126259092453468
+    second: Droga_1 (2)_9
+  - first:
+      213: 314379567466036680
+    second: Droga_1 (2)_10
+  - first:
+      213: 4541385725913913617
+    second: Droga_1 (2)_11
+  - first:
+      213: 5007516375982247361
+    second: Droga_1 (2)_12
+  - first:
+      213: -7573672856501721420
+    second: Droga_1 (2)_13
+  - first:
+      213: -1993983340955256957
+    second: Droga_1 (2)_14
+  - first:
+      213: 2308619507440870107
+    second: Droga_1 (2)_15
+  - first:
+      213: 5513292392211257012
+    second: Droga_1 (2)_16
+  - first:
+      213: 879641232140476957
+    second: Droga_1 (2)_17
+  - first:
+      213: -6425580818376912680
+    second: Droga_1 (2)_18
+  - first:
+      213: 3452196006966683623
+    second: Droga_1 (2)_19
+  - first:
+      213: -7556198115907236124
+    second: Droga_1 (2)_20
+  - first:
+      213: -917294620868577783
+    second: Droga_1 (2)_21
+  - first:
+      213: -7765203621954836666
+    second: Droga_1 (2)_22
+  - first:
+      213: 5865891300006660309
+    second: Droga_1 (2)_23
+  - first:
+      213: -4202736690025191425
+    second: Droga_1 (2)_24
+  - first:
+      213: 918471481966542161
+    second: Droga_1 (2)_25
+  - first:
+      213: 6746824697009016677
+    second: Droga_1 (2)_26
+  - first:
+      213: -3727165692354520979
+    second: Droga_1 (2)_27
+  - first:
+      213: 3963504751960492385
+    second: Droga_1 (2)_28
+  - first:
+      213: -4062257951460449137
+    second: Droga_1 (2)_29
+  - first:
+      213: -9211712548564652529
+    second: Droga_1 (2)_30
+  - first:
+      213: -3437549850653900977
+    second: Droga_1 (2)_31
+  - first:
+      213: 998085807009462355
+    second: Droga_1 (2)_32
+  - first:
+      213: -925402678967355156
+    second: Droga_1 (2)_33
+  - first:
+      213: -5173202408894550868
+    second: Droga_1 (2)_34
+  - first:
+      213: -2585036174307052606
+    second: Droga_1 (2)_35
+  - first:
+      213: 4198276570755939621
+    second: Droga_1 (2)_36
+  - first:
+      213: -2203296225409392623
+    second: Droga_1 (2)_37
+  - first:
+      213: 5809926856692416356
+    second: Droga_1 (2)_38
+  - first:
+      213: -3495563235661204280
+    second: Droga_1 (2)_39
+  - first:
+      213: 3537701955324067016
+    second: Droga_1 (2)_40
+  - first:
+      213: 7292375800726295547
+    second: Droga_1 (2)_41
+  - first:
+      213: -1897004055744002624
+    second: Droga_1 (2)_42
+  - first:
+      213: -5802956418412114109
+    second: Droga_1 (2)_43
+  - first:
+      213: 5893777156952763869
+    second: Droga_1 (2)_44
+  - first:
+      213: 8833303855210642500
+    second: Droga_1 (2)_45
+  - first:
+      213: 4159488458065855562
+    second: Droga_1 (2)_46
+  - first:
+      213: -3707726086333027487
+    second: Droga_1 (2)_47
+  - first:
+      213: -6341204513348050157
+    second: Droga_1 (2)_48
+  - first:
+      213: 6685546059292283688
+    second: Droga_1 (2)_49
+  - first:
+      213: 755578558872626364
+    second: Droga_1 (2)_50
+  - first:
+      213: 7612932009209527740
+    second: Droga_1 (2)_51
+  - first:
+      213: 2895875541709117794
+    second: Droga_1 (2)_52
+  - first:
+      213: -3555806514488135723
+    second: Droga_1 (2)_53
+  - first:
+      213: -4991005473696766117
+    second: Droga_1 (2)_54
+  - first:
+      213: -2809905918018797053
+    second: Droga_1 (2)_55
+  - first:
+      213: -630423644885012390
+    second: Droga_1 (2)_56
+  - first:
+      213: 8755553322201816917
+    second: Droga_1 (2)_57
+  - first:
+      213: -3518904687823218408
+    second: Droga_1 (2)_58
+  - first:
+      213: 51189933218458819
+    second: Droga_1 (2)_59
+  - first:
+      213: 4125696589087168605
+    second: Droga_1 (2)_60
+  - first:
+      213: 3179375330241260372
+    second: Droga_1 (2)_61
+  - first:
+      213: 1507803242683972945
+    second: Droga_1 (2)_62
+  - first:
+      213: 571212470419383329
+    second: Droga_1 (2)_63
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 62
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Droga_1 (2)_0
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 638
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e39581ca2ce74030800000000000000
+      internalID: 3479008905546535907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Droga_1 (2)_1
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 638
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8dac0041c276af30800000000000000
+      internalID: 4586479444852256139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Droga_1 (2)_2
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 576
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31dd667aa0b0607a0800000000000000
+      internalID: -6411424879129207533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Droga_1 (2)_3
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 576
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c52eda31df099e040800000000000000
+      internalID: 4677429104632259164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Droga_1 (2)_4
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 576
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc2645c853b5ee530800000000000000
+      internalID: 3886143814013051599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Droga_1 (2)_5
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 576
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 468abc1d4f2b7b270800000000000000
+      internalID: 8266272405623384164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Droga_1 (2)_6
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 514
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d50cdbb7178fb9fb0800000000000000
+      internalID: -4639841824784138147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Droga_1 (2)_7
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 514
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8b4871983d8d9e30800000000000000
+      internalID: 4511917675793369995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Droga_1 (2)_8
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 514
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b35bf249a75274e40800000000000000
+      internalID: 5640518266707227963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Droga_1 (2)_9
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 514
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a782bd8e8eec94a0800000000000000
+      internalID: -6585126259092453468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Droga_1 (2)_10
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 452
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cd347b0d86ec5400800000000000000
+      internalID: 314379567466036680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Droga_1 (2)_11
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 452
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 119d025a14e360f30800000000000000
+      internalID: 4541385725913913617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Droga_1 (2)_12
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 452
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cd8f5dec954e7540800000000000000
+      internalID: 5007516375982247361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Droga_1 (2)_13
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 452
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b6623ff9a8e4e690800000000000000
+      internalID: -7573672856501721420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Droga_1 (2)_14
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 390
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 387b05a47b2f354e0800000000000000
+      internalID: -1993983340955256957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Droga_1 (2)_15
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 390
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd2ec8ed53dd90020800000000000000
+      internalID: 2308619507440870107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Droga_1 (2)_16
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 390
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b69d945836238c40800000000000000
+      internalID: 5513292392211257012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Droga_1 (2)_17
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 390
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1225834a0d153c00800000000000000
+      internalID: 879641232140476957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Droga_1 (2)_18
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 390
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d094153a40c3d6a0800000000000000
+      internalID: -6425580818376912680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Droga_1 (2)_19
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 390
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e765425af9a8ef20800000000000000
+      internalID: 3452196006966683623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Droga_1 (2)_20
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 390
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ee8fd819ddf22790800000000000000
+      internalID: -7556198115907236124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Droga_1 (2)_21
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 390
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90670c0076d1543f0800000000000000
+      internalID: -917294620868577783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Droga_1 (2)_22
+      rect:
+        serializedVersion: 2
+        x: 558
+        y: 390
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6472ec892747c3490800000000000000
+      internalID: -7765203621954836666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Droga_1 (2)_23
+      rect:
+        serializedVersion: 2
+        x: 620
+        y: 390
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d883fbfe05d76150800000000000000
+      internalID: 5865891300006660309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Droga_1 (2)_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 328
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff72c8a5f31eca5c0800000000000000
+      internalID: -4202736690025191425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Droga_1 (2)_25
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 328
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15d31f252f01fbc00800000000000000
+      internalID: 918471481966542161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Droga_1 (2)_26
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 328
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56f0e03d05981ad50800000000000000
+      internalID: 6746824697009016677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Droga_1 (2)_27
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 328
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d689f28dc82764cc0800000000000000
+      internalID: -3727165692354520979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Droga_1 (2)_28
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 328
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1698d268292310730800000000000000
+      internalID: 3963504751960492385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Droga_1 (2)_29
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 328
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f84a1397ae5ff97c0800000000000000
+      internalID: -4062257951460449137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Droga_1 (2)_30
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 328
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0eabc92e3c692080800000000000000
+      internalID: -9211712548564652529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Droga_1 (2)_31
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 328
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4fb31eaf9e5b40d0800000000000000
+      internalID: -3437549850653900977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Droga_1 (2)_32
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 328
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 358782ed0c9e9dd00800000000000000
+      internalID: 998085807009462355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Droga_1 (2)_33
+      rect:
+        serializedVersion: 2
+        x: 558
+        y: 328
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce8b4fd9a2f4823f0800000000000000
+      internalID: -925402678967355156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Droga_1 (2)_34
+      rect:
+        serializedVersion: 2
+        x: 620
+        y: 328
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cac25a261d71538b0800000000000000
+      internalID: -5173202408894550868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Droga_1 (2)_35
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 266
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c3b4eaab4b102cd0800000000000000
+      internalID: -2585036174307052606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Droga_1 (2)_36
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 266
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52db0c43c46434a30800000000000000
+      internalID: 4198276570755939621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Droga_1 (2)_37
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 266
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 110a38da1c15c61e0800000000000000
+      internalID: -2203296225409392623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Droga_1 (2)_38
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 266
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46f3720a1b101a050800000000000000
+      internalID: 5809926856692416356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Droga_1 (2)_39
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 266
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c4bf78e1c34d7fc0800000000000000
+      internalID: -3495563235661204280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Droga_1 (2)_40
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 266
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ccbb405f21781130800000000000000
+      internalID: 3537701955324067016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Droga_1 (2)_41
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 266
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf312f27729b33560800000000000000
+      internalID: 7292375800726295547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Droga_1 (2)_42
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 266
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c547efacdc7ca5e0800000000000000
+      internalID: -1897004055744002624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Droga_1 (2)_43
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 266
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34f097102e1c77fa0800000000000000
+      internalID: -5802956418412114109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Droga_1 (2)_44
+      rect:
+        serializedVersion: 2
+        x: 558
+        y: 266
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddd2b710917eac150800000000000000
+      internalID: 5893777156952763869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Droga_1 (2)_45
+      rect:
+        serializedVersion: 2
+        x: 620
+        y: 266
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44c3be23e03369a70800000000000000
+      internalID: 8833303855210642500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Droga_1 (2)_46
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 204
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a444a56f6b879b930800000000000000
+      internalID: 4159488458065855562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Droga_1 (2)_47
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 204
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16baba3d4c28b8cc0800000000000000
+      internalID: -3707726086333027487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Droga_1 (2)_48
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 204
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31329cd97148ff7a0800000000000000
+      internalID: -6341204513348050157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Droga_1 (2)_49
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 204
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82311a928b4d7cc50800000000000000
+      internalID: 6685546059292283688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Droga_1 (2)_50
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 204
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb4218132ba5c7a00800000000000000
+      internalID: 755578558872626364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Droga_1 (2)_51
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 204
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbd722cc35196a960800000000000000
+      internalID: 7612932009209527740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Droga_1 (2)_52
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 142
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26950515677303820800000000000000
+      internalID: 2895875541709117794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Droga_1 (2)_53
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 142
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5df2ae580dc37aec0800000000000000
+      internalID: -3555806514488135723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Droga_1 (2)_54
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 142
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b57264417f26cbab0800000000000000
+      internalID: -4991005473696766117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Droga_1 (2)_55
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 142
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 302c83084753109d0800000000000000
+      internalID: -2809905918018797053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Droga_1 (2)_56
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 80
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a503f9cf8094047f0800000000000000
+      internalID: -630423644885012390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Droga_1 (2)_57
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 80
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55f94dd8b59f18970800000000000000
+      internalID: 8755553322201816917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Droga_1 (2)_58
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 80
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81917d394d65a2fc0800000000000000
+      internalID: -3518904687823218408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Droga_1 (2)_59
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 80
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ccef8919fcd5b000800000000000000
+      internalID: 51189933218458819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Droga_1 (2)_60
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 18
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d58d49b503b614930800000000000000
+      internalID: 4125696589087168605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Droga_1 (2)_61
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 18
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45babae84096f1c20800000000000000
+      internalID: 3179375330241260372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Droga_1 (2)_62
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 18
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15d3c5f7f0bcce410800000000000000
+      internalID: 1507803242683972945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Droga_1 (2)_63
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 18
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 124ee9627ba5de700800000000000000
+      internalID: 571212470419383329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
